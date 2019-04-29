@@ -22,8 +22,11 @@ kichijoji.pmコミュニティに提供したロゴの元データになりま�
 
 1. pptx (PowerPoint形式の元データ)
 2. PDF (上記のデータのPDF化)
+3. JPG
 
 レイヤーはありませんが、各オブジェクト（図）はグループ化しておりますので、加工が必要になった場合は、媒体に合わせて位置を調整したり、改変して下さって問題ありません。
+
+<img src="https://raw.githubusercontent.com/akiko-pusu/kichijoji-pm-logo/master/kichijoji-pm-logo-1100x1100.jpeg" width="200" height="200">
 
 
 ## Authors
